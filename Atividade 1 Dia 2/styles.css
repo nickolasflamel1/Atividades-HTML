@@ -1,0 +1,18 @@
+#background{
+    background-color: black;
+}
+#soneto {
+    flex-direction: column;
+    color: aliceblue;
+    display:inline-block;
+}
+#titulo {
+    flex-direction: column;
+    display: inline-block;
+}
+
+#imagem {
+    display:inline-block;
+    align-self: center;
+    margin-top: 80px;
+}
